@@ -53,19 +53,16 @@ Here are some ideas to get you started:
   
   ### 🧭 &nbsp;Here's the languages that I am currently working on
   
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/antonielbordin) 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/antonielbordin) 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/antonielbordin) 
-[![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://github.com/antonielbordin) 
-[![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/antonielbordin) 
-[![JQuery](https://img.shields.io/badge/JQuery-blue?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/antonielbordin)  
-[![Svelte](https://img.shields.io/badge/svelte%20-%23F05033?style=for-the-badge&logo=svelte&logoColor=white)](https://github.com/antonielbordin) 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/antonielbordin) 
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/antonielbordin) 
-[![PHP](https://img.shields.io/badge/php-1572B6?style=for-the-badge&logo=php&logoColor=white&link=https://github.com/antonielbordin)](https://github.com/antonielbordin) 
-  
-  
-   
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/antonielbordin) 
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/antonielbordin) 
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/antonielbordin) 
+  [![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://github.com/antonielbordin) 
+  [![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/antonielbordin) 
+  [![JQuery](https://img.shields.io/badge/JQuery-blue?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/antonielbordin)  
+  [![Svelte](https://img.shields.io/badge/svelte%20-%23F05033?style=for-the-badge&logo=svelte&logoColor=white)](https://github.com/antonielbordin) 
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/antonielbordin) 
+  [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/antonielbordin) 
+  [![PHP](https://img.shields.io/badge/php-1572B6?style=for-the-badge&logo=php&logoColor=white)](https://github.com/antonielbordin)    
  
   <br>
   
