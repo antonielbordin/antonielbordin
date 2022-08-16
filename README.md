@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  🧭
 -->
+<div>
+ 
+# Hi there 👋, Antoniel Bordin here. 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=antonielbordin.repoName) [![GitHub followers](https://img.shields.io/github/followers/antonielbordin.svg?style=social&label=Follow)](https://github.com/antonielbordin?tab=followers)<br/>
+
+</div>
+
 
 <div>
   
@@ -65,7 +72,7 @@ Here are some ideas to get you started:
 
   ### 🐱 &nbsp;My activities
   <a href="https://github.com/antonielbordin">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=antonielbordin&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="Antoniel Bordin" src="https://github-readme-stats.vercel.app/api?username=antonielbordin&theme=monokai&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   
   <a href="https://github.com/antonielbordin">
