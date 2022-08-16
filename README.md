@@ -53,6 +53,11 @@ Here are some ideas to get you started:
   
   ### 🧭 &nbsp;Here's the languages that I am currently working on
 
+ [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/antonielbordin)](https://github.com/antonielbordin) 
+ [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/antonielbordin)](https://github.com/antonielbordin) 
+ [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/antonielbordin)](https://github.com/antonielbordin) 
+ [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/antonielbordin)](https://github.com/antonielbordin) 
+ 
   ![](https://img.shields.io/badge/svelte%20-%23F05033?style=for-the-badge&logo=svelte&logoColor=white)
   ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -62,7 +67,7 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
   ![](https://img.shields.io/badge/bootstrap-23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![](https://img.shields.io/badge/php-1572B6?style=for-the-badge&logo=php&logoColor=white)
-  
+  [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery) 
    
  
   <br>
@@ -74,11 +79,11 @@ Here are some ideas to get you started:
 
   ### 🐱 &nbsp;My activities
   <a href="https://github.com/antonielbordin">
-    <img width=450 height=170 align="center" alt="Antoniel Bordin" src="https://github-readme-stats.vercel.app/api?username=antonielbordin&theme=vue&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="Antoniel Bordin" src="https://github-readme-stats.vercel.app/api?username=antonielbordin&theme=react&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   
   <a href="https://github.com/antonielbordin">
-    <img align="center" alt="antonielbordin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonielbordin&theme=vue&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="antonielbordin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonielbordin&theme=react&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   
    <br>
