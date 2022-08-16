@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <div>
  
 # Hi there 👋, Antoniel Bordin here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=antonielbordin.repoName) [![GitHub followers](https://img.shields.io/github/followers/antonielbordin.svg?style=social&label=Follow)](https://github.com/antonielbordin?tab=followers)<br/>
+![](https://visitor-badge.glitch.me/badge?page_id=antonielbordin.antonielbordin)
+ [![GitHub followers](https://img.shields.io/github/followers/antonielbordin.svg?style=social&label=Follow)](https://github.com/antonielbordin?tab=followers)<br/>
 
 </div>
 
@@ -98,9 +99,7 @@ Here are some ideas to get you started:
   ### &nbsp;Connect with me!
     
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/antonielbordin/)     [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/antonielbordin/)
-  [<img src="https://img.shields.io/badge/BLOGS-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://antonielbordin.blog) 
-
-  ![](https://visitor-badge.glitch.me/badge?page_id=antonielbordin.antonielbordin)
+  [<img src="https://img.shields.io/badge/BLOGS-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://antonielbordin.blog)   
    
   <br>
   
