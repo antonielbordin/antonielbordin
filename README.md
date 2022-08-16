@@ -17,10 +17,11 @@ Here are some ideas to get you started:
  
 # Hi there 👋, Antoniel Bordin here. 
 ![](https://visitor-badge.glitch.me/badge?page_id=antonielbordin.antonielbordin)
- [![GitHub followers](https://img.shields.io/github/followers/antonielbordin.svg?style=social&label=Follow)](https://github.com/antonielbordin?tab=followers)<br/>
+[![GitHub followers](https://img.shields.io/github/followers/antonielbordin.svg?style=social&label=Follow)](https://github.com/antonielbordin?tab=followers)
+ 
+ <br/>
 
 </div>
-
 
 <div>
   
@@ -73,11 +74,11 @@ Here are some ideas to get you started:
 
   ### 🐱 &nbsp;My activities
   <a href="https://github.com/antonielbordin">
-    <img width=450 height=170 align="center" alt="Antoniel Bordin" src="https://github-readme-stats.vercel.app/api?username=antonielbordin&theme=monokai&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="Antoniel Bordin" src="https://github-readme-stats.vercel.app/api?username=antonielbordin&theme=vue&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   
   <a href="https://github.com/antonielbordin">
-    <img align="center" alt="antonielbordin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonielbordin&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="antonielbordin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonielbordin&theme=vue&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   
    <br>
