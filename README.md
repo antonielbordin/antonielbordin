@@ -99,9 +99,9 @@ Here are some ideas to get you started:
   
   ### &nbsp;Connect with me!
     
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/antonielbordin/)     
-  [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/antonielbordin/)
-  [<img src="https://img.shields.io/badge/curriculum-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://antonielbordin.github.io/curriculum/)   
+  [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonielbordin/)     
+[![Twitter](https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/antonielbordin/)
+[![Curriculum](https://img.shields.io/badge/curriculum-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://antonielbordin.github.io/curriculum/)  
  
   <br>
   
