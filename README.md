@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 <!-- https://github.com/Ayan-thecodeking/antonielbordin/blob/output/github-contribution-grid-snake.gif?raw=true -->
 
 
-<div align="center" style="width:100%">
+<div align="center" style="width:100%;background:#f6f6f6">
   
   ### &nbsp;Connect with me!
     
