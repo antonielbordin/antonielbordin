@@ -53,16 +53,20 @@ Here are some ideas to get you started:
   
   ### 🧭 &nbsp;Here's the languages that I am currently working on
   
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/antonielbordin) 
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/antonielbordin) 
-  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/antonielbordin) 
-  [![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/antonielbordin) 
-  [![JQuery](https://img.shields.io/badge/JQuery-blue?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/antonielbordin)  
-  [![Svelte](https://img.shields.io/badge/svelte%20-%23F05033?style=for-the-badge&logo=svelte&logoColor=white)](https://github.com/antonielbordin) 
-  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/antonielbordin) 
-  [![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://github.com/antonielbordin) 
-  [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/antonielbordin) 
-  [![PHP](https://img.shields.io/badge/php-%230077B5?style=for-the-badge&logo=php&logoColor=white)](https://github.com/antonielbordin)    
+
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+ ![Svelte](https://img.shields.io/badge/svelte%20-%23F05033?style=for-the-badge&logo=svelte&logoColor=white)
+ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+ ![Ant-Design](https://img.shields.io/badge/AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+ ![Apollo-GraphQL](https://img.shields.io/badge/ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+ ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+ ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+ ![PHP](https://img.shields.io/badge/php-%230077B5?style=for-the-badge&logo=php&logoColor=white)   
  
   <br>
   
@@ -91,13 +95,13 @@ Here are some ideas to get you started:
 <!-- https://github.com/Ayan-thecodeking/antonielbordin/blob/output/github-contribution-grid-snake.gif?raw=true -->
 
 
-<div align="center">
+<div align="center" style="width:100%">
   
   ### &nbsp;Connect with me!
     
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/antonielbordin/)     
   [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/antonielbordin/)
-  [<img src="https://img.shields.io/badge/curriculum-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://antonielbordin.blog)   
+  [<img src="https://img.shields.io/badge/curriculum-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://antonielbordin.github.io/curriculum/)   
   [<img src="https://img.shields.io/badge/blogs-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://antonielbordin.blog)
   <br>
   
