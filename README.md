@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/antonielbordin/)     
   [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/antonielbordin/)
   [<img src="https://img.shields.io/badge/curriculum-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://antonielbordin.github.io/curriculum/)   
-  [<img src="https://img.shields.io/badge/blogs-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://antonielbordin.blog)
+ 
   <br>
   
 </div>
