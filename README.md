@@ -98,7 +98,7 @@ Here are some ideas to get you started:
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/antonielbordin/)     
   [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/antonielbordin/)
   [<img src="https://img.shields.io/badge/BLOGS-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://antonielbordin.blog)   
-   [<img src="https://img.shields.io/static/v1?label=teste&message=novoteste&color=545454" />](https://antonielbordin.blog)
+   [<img src="https://img.shields.io/static/v1?label=teste&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://antonielbordin.blog)
   <br>
   
 </div>
