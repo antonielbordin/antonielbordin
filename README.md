@@ -1,18 +1,3 @@
-<!--
-**antonielbordin/antonielbordin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- 🧭
--->
 <div>
  
 # Hi there 👋, Antoniel Bordin here. 
@@ -53,7 +38,6 @@ Here are some ideas to get you started:
   
   ### 🧭 &nbsp;Here's the languages that I am currently working on
   
-
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -99,9 +83,9 @@ Here are some ideas to get you started:
   
   ### &nbsp;Connect with me!
     
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/antonielbordin/)     
-  [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/antonielbordin/)
-  [<img src="https://img.shields.io/badge/curriculum-%23292929.svg?&style=for-the-badge" />](https://antonielbordin.github.io/curriculum/)    
+  <a href="https://github.com/antonielbordin" target="_blank">
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
  
  
   <br>
