@@ -73,7 +73,21 @@
 
 
 <div align="center">
-  <img src="https://github.com/antonielbordin/antonielbordin/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <!--<img src="https://github.com/antonielbordin/antonielbordin/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>-->
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/antonielbordin/antonielbordin/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/antonielbordin/antonielbordin/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/antonielbordin/antonielbordin/blob/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 </div>
 
 <!-- https://github.com/Ayan-thecodeking/antonielbordin/blob/output/github-contribution-grid-snake.gif?raw=true -->
